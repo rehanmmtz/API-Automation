@@ -5,7 +5,7 @@
 1. langsung download file *API Automation.zip*
 2. Extract folder tersebut
 3. open folder yang sudah di extract pada code editor
-4. jika ingin menjalankan spesifik test pada file gunakan code: ```npx mocha testing/getUser.js```
+4. jika ingin menjalankan spesifik test pada file gunakan code: ```npx mocha testing/getUsers.js```
 5. jalankan seluruh file dengan code: ```npm run testing```
 6. kemudian untuk membuka report gunakan code: ```start mochawesome-report/mochawesome.html```
 
